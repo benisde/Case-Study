@@ -1,2 +1,2 @@
 
-Case Study for RBC Blockchain evolution
+Case Study on RBC Blockchain evolution
